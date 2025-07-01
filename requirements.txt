@@ -2,4 +2,4 @@ streamlit
 plotly
 pytz
 matplotlib
-sklearn
+scikit-learn
