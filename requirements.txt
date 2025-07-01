@@ -2,5 +2,3 @@ streamlit
 plotly
 pytz
 matplotlib
-xgboost
-sklearn
